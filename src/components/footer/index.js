@@ -13,7 +13,7 @@ function Footer(){
             <h1 className="tituloempresas">Experiencia profesional</h1>
             <Accordion defaultActiveKey="0">
                     <Accordion.Item eventKey="0">
-                        <Accordion.Header>Técnico en Sistemas</Accordion.Header>
+                        <Accordion.Header>Técnico de Sistemas</Accordion.Header>
                         <Accordion.Body>
                         <p>Stepan Colombia S.A</p>
                         <p>Vía la Manuela - Manizales Caldas</p>
@@ -39,7 +39,7 @@ function Footer(){
     </Accordion>
 
 
-                <h1 className="tituloacordion">Educación</h1>
+                <h1 className="tituloeducacion">Educación</h1>
                 <Accordion defaultActiveKey="0">
                     <Accordion.Item eventKey="0">
                         <Accordion.Header>Tecnico Bachiller</Accordion.Header>
@@ -63,6 +63,37 @@ function Footer(){
                         <p>Universidad de Manizales</p>
                         <p>Dirección: Cra 8 # 8 3, MAnizales</p>
                         <p>2017- Actualmente</p>
+                        </Accordion.Body>
+                    </Accordion.Item>
+    </Accordion>
+
+    <h1 className="tituloreferencias">Referencias Laborales</h1>
+            <Accordion defaultActiveKey="0">
+                    <Accordion.Item eventKey="0">
+                        <Accordion.Header>Coordinador IT Stepan Colombia S.A</Accordion.Header>
+                        <Accordion.Body>
+                        <p>Fredy Calle Marín</p>
+                        <p>Stepan Colombia S.A</p>
+                        <p>Tel. 3216789898</p>
+                        <p>Correo: fcalle@stepan.com</p>
+                        </Accordion.Body>
+                    </Accordion.Item>
+                    <Accordion.Item segundotrabajo="1">
+                        <Accordion.Header>Coordinador Comdata Group - Soporte Técnico</Accordion.Header>
+                        <Accordion.Body>
+                        <p>Lucas Martínez Gomez</p>
+                        <p>Comdata Gropu</p>
+                        <p>Tel. 3216789898</p>
+                        <p>Correo: lucasm@comdata.com</p>
+                        </Accordion.Body>
+                    </Accordion.Item>
+                    <Accordion.Item tercerempleo="2">
+                        <Accordion.Header>Coordinadora de Servicio</Accordion.Header>
+                        <Accordion.Body>
+                        <p>Paula Andrea Flórez Muñoz</p>
+                        <p>Ternium Colombia</p>
+                        <p>Tel. 3106789898</p>
+                        <p>Correo: paflorez@ternium.com</p>
                         </Accordion.Body>
                     </Accordion.Item>
     </Accordion>
