@@ -43,6 +43,26 @@ Dado el hecho de que ReactJS es una plataforma de código abierto con licencia d
 ### 5. Función de recarga activa (Hot Reloading)
 La función de recarga activa permite al desarrollador implementar cambios en un código y ver el efecto en la aplicación en tiempo real. Por lo tanto, permite actualizar una aplicación que ya está activa.  
 
+## Páginas utilizadas
+ 
+  - https://reactjs.org/
+  - https://www.solvetic.com/tutoriales/article/1619-primeros-pasos-con-react/
+  - https://react-bootstrap.github.io/
+
+
+#### ¿Hablamos?☕️
+
+
+<p align="left">
+
+
+<a href="https://linkedin.com/in/angela-florez-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Angela Florez Aristizabal" height="30" width="40" />linkedin</a>
+
+
+<a href="mailto:angelithafl@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Angela Florez Aristizabal" height="30" width="40" />angelithafl98@gmail.com</a>
+</p>
+
+
 
 ## Licencia
 
