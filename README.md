@@ -1,6 +1,25 @@
-Hoja de Vida con React JS.
+# angelamariafl
 
-## Instalación
+#### Mi nombre es Angela Florez Aristizabal 👋
+Proyecto Hoja de Vida con React JS.
+
+#### Tecnica en Sistemas & estudiante de Ingenieria de Sistemas y Telecomunicaciones 💻 ♨️
+
+#### Actualmente me dedico a:
+
+
+- Técnico de Servicio Nivel II
+- Estudiante actual en jornada nocturna de Ingenieria de Sistemas y Telecomunicaciones.
+___
+
+#### Tengo conocimientos sobre:
+
+ - HTML
+ - JavaScrip
+ - Bases de datos SQL
+ - Java
+
+## Instalación de React desde Visual Studio
 
 Puedes crear APP react desde PowerShell
 
