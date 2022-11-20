@@ -1,10 +1,16 @@
 import React from "react";
 import { Alert } from 'react-bootstrap';
+import perfil from './perfil.jpg'
 
 function Aux(){
     return(
         <div>
             <h1> CV Angela Florez Aristizabal</h1>
+            <img
+                    className="d-block w-100"
+                    src={perfil}
+                    alt="Third slide"
+                    />
             <Alert variant="warning">
                 <Alert.Heading></Alert.Heading>
                 <p aling="center">
