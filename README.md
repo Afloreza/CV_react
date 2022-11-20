@@ -1,69 +1,50 @@
-# Getting Started with Create React App
+# angelamariafl
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Mi nombre es Angela Florez Aristizabal 👋
+Proyecto Hoja de Vida con React JS.
 
-## Available Scripts
+#### Tecnica en Sistemas & estudiante de Ingenieria de Sistemas y Telecomunicaciones 💻 ♨️
 
-In the project directory, you can run:
+#### Actualmente me dedico a:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Técnico de Servicio Nivel II
+- Estudiante actual en jornada nocturna de Ingenieria de Sistemas y Telecomunicaciones.
+___
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Tengo conocimientos sobre:
 
-### `npm test`
+ - HTML
+ - JavaScrip
+ - Bases de datos SQL
+ - Java
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instalación de React desde Visual Studio
 
-### `npm run build`
+Puedes crear APP react desde PowerShell
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npx create-react-app my-app`
+`npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Ventajas principales de usar ReactJS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 1. Desarrollo rentable
+Esta librería ofrece a los desarrolladores una vía económica para crear aplicaciones multiplataforma, por ejemplo, en lugar de crear dos aplicaciones diferentes para Android y iOS, el desarrollador puede implementar el mismo código para ambas plataformas. Esto implicaría reducir los costos de desarrollo en un 50% aproximadamente.
 
-### `npm run eject`
+### 2. Entrega más rápida de proyectos de aplicaciones
+ReactJS tiene la capacidad de acelerar el desarrollo de aplicaciones, los desarrolladores pueden aprovechar varios componentes listos para crear funciones de aplicaciones más rápido que nunca. Además, se necesitan menos esfuerzos, ya que se requiere menos código en comparación con otras plataformas de desarrollo. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. Aprovecha JavaScript
+JavaScript es el lenguaje de programación más utilizado en el mundo, esto facilita a los desarrolladores de JavaScript el uso de ReactJS, ya que el marco está escrito en JavaScript. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 4. Ventaja del código abierto
+Dado el hecho de que ReactJS es una plataforma de código abierto con licencia del MIT, brinda a los desarrolladores acceso para usar bibliotecas y marcos de forma gratuita. Impone algunas restricciones sobre la reutilización del software, pero también proporciona protección legal para los desarrolladores.   
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 5. Función de recarga activa (Hot Reloading)
+La función de recarga activa permite al desarrollador implementar cambios en un código y ver el efecto en la aplicación en tiempo real. Por lo tanto, permite actualizar una aplicación que ya está activa.  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Licencia
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
+MIT
 
